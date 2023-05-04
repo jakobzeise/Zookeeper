@@ -175,7 +175,7 @@ files:
     \ the end of the program!\");\n        }\n\n        return CheckResult.correct();\n\
     \    }\n}"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/229/stages/1149/implement#comment
+feedback_link: https://hyperskill.org/learn/step/17790#comment
 status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
