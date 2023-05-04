@@ -132,7 +132,8 @@ public class Main {
         System.out.println("Please enter the number of the habitat you would like to view:");
         System.out.println(habitats.get(new Scanner(System.in).nextInt()));
         System.out.println("---");
-        System.out.println("You've reached the end of the program. To check another habitat, please restart the watcher.");
+        System.out.println("You've reached the end of the program. To check another habitat, please restart the "+
+                "watcher.");
 
 
     }
